@@ -1,12 +1,8 @@
-# 🚀 Career Navigator: Product Strategy & User Engagement Case Study
-
+# Career Navigator: Product Strategy Case Study
 <div align="center">
 
-![Product Management](https://img.shields.io/badge/Product-Management-blueviolet?style=for-the-badge)
-![UX Strategy](https://img.shields.io/badge/UX-Strategy-orange?style=for-the-badge)
-![Data-Driven](https://img.shields.io/badge/Data-Driven-green?style=for-the-badge)
+**Transforming Labor Market Intelligence Through User-Centered Design**
 
-**Transforming Labor Market Intelligence Through Incentive-Led Acquisition**
 
 [View Full Strategy Document](STRATEGIC_NOTE.md) | [Key Insights](#key-insights) | [Contact](#about-me)
 </div>
@@ -23,7 +19,7 @@ This repository showcases a **product strategy proposal** for **Whiteshield's Ca
 
 ---
 
-## 🎯 Strategic Focus
+## 🎯rategic Focus
 
 ### The Target Persona
 **Mid-level professionals with informed anxiety**
