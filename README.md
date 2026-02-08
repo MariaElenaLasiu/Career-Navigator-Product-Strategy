@@ -36,35 +36,11 @@ This reframing will:
 
 I propose a tactical pivot in the acquisition funnel through three low-overhead overlays, designed as low-overhead, high-impact overlays that incentivise user participation without requiring a structural UI overhaul.
 
-### Feature 1: Automation Vulnerability Score
-
-| **Element** | **Details** |
-|-------------|-------------|
-| **Description** | A high-impact Market Risk meter comparing the user's role against national AI displacement trends. |
-| **User Story** | "As an anxious professional, I want to see how my specific job title compares to national AI trends so I can stop guessing about my career risk." |
-| **User Value** | Converts abstract AI trends into a personal risk assessment. |
-| **UX Mechanism** | First-time user inputs Job Title → System generates a National Resilience Percentile vs. the cohort. |
-| **Product Goal** | Reduces Time to Value (TTV) and lowers the bounce rate on the initial landing page. |
-
-### Feature 2: Resilience Boost Roadmap
-
-| **Element** | **Details** |
-|-------------|-------------|
-| **Description** | A personalised Gap-to-Growth visual analytical tool generated immediately following a CV upload. |
-| **User Story** | "As a career optimiser, I want to see exactly which 3 skills will increase my market value so I can focus my learning on high-ROI activities." |
-| **User Value** | Provides a clear, actionable path to economic mobility. |
-| **UX Mechanism** | User uploads CV → Quantum Engine reveals the 3 specific skills that would move the user into the top 20% of Resilient professionals. |
-| **Product Goal** | Drives CV upload volume and ensures high-fidelity skill data for the Quantum Model. |
-
-### Feature 3: Future-Ready Credential
-
-| **Element** | **Details** |
-|-------------|-------------|
-| **Description** | A verified, social-media-ready badge—"Certified Future-Ready Skills"—co-branded by Whiteshield and the client (GovMin). |
-| **User Story** | "As a proactive worker, I want to share my verified Future-Ready skills with my network to signal my competence and readiness to recruiters." |
-| **User Value** | Professional recognition and delight. |
-| **UX Mechanism** | Post-analysis, users trigger a LinkedIn share in one click that lists their verified skills without exposing their risk score. |
-| **Product Goal** | Create a Product-Led Growth (PLG) loop where user shares drive organic acquisition, reducing the cost of user recruitment. |
+| **Feature** | **Description** | **User Story** | **User Value** | **UX Mechanism** | **Product Goal** |
+|-------------|-----------------|----------------|----------------|------------------|------------------|
+| **Automation Vulnerability Score** | A high-impact Market Risk meter comparing the user's role against national AI displacement trends. | "As an anxious professional, I want to see how my specific job title compares to national AI trends so I can stop guessing about my career risk." | Converts abstract AI trends into a personal risk assessment. | First-time user inputs Job Title → System generates a National Resilience Percentile vs. the cohort. | Reduces Time to Value (TTV) and lowers the bounce rate on the initial landing page. |
+| **Resilience Boost Roadmap** | A personalised Gap-to-Growth visual analytical tool generated immediately following a CV upload. | "As a career optimiser, I want to see exactly which 3 skills will increase my market value so I can focus my learning on high-ROI activities." | Provides a clear, actionable path to economic mobility. | User uploads CV → Quantum Engine reveals the 3 specific skills that would move the user into the top 20% of Resilient professionals. | Drives CV upload volume and ensures high-fidelity skill data for the Quantum Model. |
+| **Future-Ready Credential** | A verified, social-media-ready badge—"Certified Future-Ready Skills"—co-branded by Whiteshield and the client (GovMin). | "As a proactive worker, I want to share my verified Future-Ready skills with my network to signal my competence and readiness to recruiters." | Professional recognition and delight. | Post-analysis, users trigger a LinkedIn share in one click that lists their verified skills without exposing their risk score. | Create a Product-Led Growth (PLG) loop where user shares drive organic acquisition, reducing the cost of user recruitment. |
 
 ## 5. Measuring impact
 
