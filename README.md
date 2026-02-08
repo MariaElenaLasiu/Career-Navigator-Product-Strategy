@@ -74,6 +74,6 @@ This is Product-Led Growth in action—where user value and business value are p
 ---
 
 **Maria Elena Lasiu**  
-Research Manager → Product Manager
+Product Analyst
 
 [LinkedIn](https://www.linkedin.com/in/mariaelena-lasiu) | [Portfolio](https://github.com/MariaElenaLasiu/Portfolio)
