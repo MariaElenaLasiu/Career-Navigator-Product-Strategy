@@ -8,8 +8,7 @@
 
 **Transforming Labor Market Intelligence Through Incentive-Led Acquisition**
 
-[View Full Strategy Document](#) | [Key Insights](#key-insights) | [Contact](#about-me)
-
+[View Full Strategy Document](STRATEGIC_NOTE.md) | [Key Insights](#key-insights) | [Contact](#about-me)
 </div>
 
 ---
@@ -113,42 +112,4 @@ Input Job Title → Instant Risk Score → Upload CV → Get Personalized Roadma
 ```
 📁 Career-Navigator-Product-Strategy/
 ├── 📄 README.md (This file)
-├── 📑 Strategic-Note-Full.pdf (Complete proposal document)
-└── 📊 [Coming Soon] Feature Wireframes & User Flows
-```
-
----
-
-## 🎨 My Product Approach
-
-This project demonstrates my ability to:
-
-🔹 **Bridge Research & Product** — Translate policy research insights (ISCO-08, labor market data) into user-facing features
-
-🔹 **Think Systemically** — Balance user needs with business goals (data fidelity for Quantum Model)
-
-🔹 **Design for Engagement** — Create low-overhead, high-impact features that drive adoption
-
-🔹 **Communicate Strategy** — Present complex ideas clearly to leadership teams
-
----
-
-## 📧 About Me
-
-**Maria Elena Lasiu** | Research Manager → Product Manager
-
-💼 Background in policy research, UX research, and digital health
-
-🎯 Passionate about building products that solve real user problems with measurable impact
-
-🌐 [LinkedIn](https://www.linkedin.com/in/mariaelena-lasiu) | [Portfolio](https://github.com/MariaElenaLasiu/Portfolio) | [Email](mailto:your.email@example.com)
-
----
-
-<div align="center">
-
-**⭐ If you found this interesting, please star this repository!**
-
-*Thank you for reviewing my work. I'm excited to discuss how I can bring this strategic thinking to your team.*
-
-</div>
+├── 📑 STRATEGIC_NOTE.md (Complete proposal document)
